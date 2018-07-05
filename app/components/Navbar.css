@@ -1,0 +1,11 @@
+#navbar {
+  border: 1px solid red;
+}
+
+ul li {
+  display: block;
+  float: left;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+}
